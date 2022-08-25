@@ -1,2 +1,2 @@
 # UI
-This is the UI representation.
+This website is a multipage UI.
